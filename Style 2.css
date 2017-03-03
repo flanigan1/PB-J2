@@ -1,0 +1,16 @@
+.Main-container{
+
+	color:rgb(196,0,196);
+
+	font-family:"Baskerville Old Face"
+} 
+
+img{
+
+	height:300px;
+	width:400px;
+}
+
+#Header{
+text-align: center;
+}
